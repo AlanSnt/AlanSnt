@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan </h1>
-<h3 align="center">I'm a French software engineer at <a href="https://www.unyc.io" target="blank">Unyc</a></h3>
+<h3 align="center">I'm a French lead developer at <a href="https://www.unyc.io" target="blank">Unyc</a></h3>
 
 ---------
 
