@@ -15,7 +15,7 @@
 
 ---------
 
-- 🔭 I’m currently working on [mobile app](https://github.com/izydog-app)
+- 🔭 I’m currently working on [mobile app](https://github.com/izydog-app) and GO APIs
 
 - 🌱 I’m currently learning **SRE and OPS**
 
