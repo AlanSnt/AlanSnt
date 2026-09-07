@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan </h1>
-<h3 align="center">I'm a French lead developer at <a href="https://www.unyc.io" target="blank">Unyc</a></h3>
+<h3 align="center">I'm a French Senior Software Engineer at <a href="https://taster.com/" target="blank">Taster</a></h3>
 
 ---------
 
@@ -15,11 +15,13 @@
 
 ---------
 
-- 🔭 I’m currently working on [mobile app](https://github.com/izydog-app) and GO APIs
+- 🏠 I enjoy building and experimenting with my homelab, especially with Proxmox
 
-- 🌱 I’m currently learning **SRE and OPS**
+- ⚙️ I’m passionate about self-hosting, infrastructure, SRE, and Ops
 
-- 👯 I’m looking to collaborate on **with another tech lover**
+- 💬 I’m always happy to chat about Go, homelabs, and all things tech
+
+- 🤝 Open to connecting and collaborating with fellow tech enthusiasts
 
 <!--
 **AlanSnt/AlanSnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
